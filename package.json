@@ -1,0 +1,27 @@
+{
+  "name": "emran-hbs-config",
+  "version": "1.0.0",
+  "description": "Sets hbs engine and views directories.",
+  "main": "emran-hbs-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emranbm/emran-hbs-config.git"
+  },
+  "keywords": [
+    "hbs",
+    "handlebars",
+    "express",
+    "emran-hbs",
+    "emran-hbs-config",
+    "hbs-config"
+  ],
+  "author": "Mr. Coder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emranbm/emran-hbs-config/issues"
+  },
+  "homepage": "https://github.com/emranbm/emran-hbs-config#readme"
+}
