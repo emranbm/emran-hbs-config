@@ -1,6 +1,6 @@
 {
   "name": "emran-hbs-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sets hbs engine and views directories.",
   "main": "emran-hbs-config.js",
   "scripts": {
@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/emranbm/emran-hbs-config/issues"
   },
-  "homepage": "https://github.com/emranbm/emran-hbs-config#readme"
+  "homepage": "https://github.com/emranbm/emran-hbs-config#readme",
+  "dependencies": {
+    "express-handlebars": "^3.0.0",
+    "express": "^4.14.0"
+  }
 }
